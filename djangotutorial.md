@@ -1,5 +1,8 @@
 https://www.django-rest-framework.org/
 
+Dicas efetivas para usar o django rest
+https://medium.com/profil-software-blog/10-things-you-need-to-know-to-effectively-use-django-rest-framework-7db7728910e0
+
 Instalar a biblioteca de rest
 ```sh
 pip install djangorestframework
